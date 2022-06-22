@@ -324,7 +324,7 @@ ul.costomer li a span {color: #5502bb;}
 }
 
 .text-bg h1 {
-     color: #FF0000;
+     color: #ffffff;
      font-size: 60px;
      line-height: 70px;
      text-transform: uppercase;
@@ -401,7 +401,7 @@ content: "";
 left: 15px;
 border-top: 20px;
 height: 20px;
-background: #f67b18;
+background: #dc3545;
 width: 77%;
 top: -5px;
 }
@@ -459,7 +459,7 @@ color: #6e6d70;
 
 .carousel-indicators .active {background: #5502bb;}
 .carousel-indicators li {
-     background: #f67b18;
+     background: #dc3545;
      width: 30px;
      height: 10px;
      margin-right: 0px;
@@ -503,7 +503,7 @@ color: #6e6d70;
 
 .item {
      text-align: center;
-     background: #f67b18;
+     background: #dc3545;
      border-radius: 20px;
      padding: 20px;
 }
@@ -541,7 +541,7 @@ color: #6e6d70;
 }
 
 .owl-dot {
-     background: #f67b18 !important;
+     background: #dc3545 !important;
      width: 25px;
      height: 25px;
      border-radius: 25px;
@@ -567,7 +567,7 @@ color: #6e6d70;
      cursor: pointer;
      font-size: 30px;
      line-height: 29px;
-     color: #fa7528;
+     color: #dc3545;
 }
 
 .asked_main .ask_box {
@@ -578,7 +578,7 @@ color: #6e6d70;
 
 .simpaly {
 padding: 10px 10px 10px 20px;
-border: #fa7528 solid 2px;
+border: #dc3545 solid 2px;
 margin-bottom: 20px;
 border-radius: 10px;
 }
@@ -684,7 +684,7 @@ $grey: #999;
 }
 
 .contact .main_form .send:hover {
-     background-color: #fd882f;
+     background-color: #dc3545;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -701,7 +701,7 @@ $grey: #999;
 }
 
 .white {
-     color: #fe9e37;
+     color: #dc3545;
 }
 
 .cont {
@@ -721,7 +721,7 @@ $grey: #999;
      font-size: 20px;
      transition: ease-in all 0.5s;
      background-color: #fff;
-     color: #fd882f;
+     color: #dc3545;
      width: 100%;
      max-width: 275px;
      padding: 7px 0px;
@@ -730,7 +730,7 @@ $grey: #999;
 }
 
 .cont a:hover {
-     background-color: #fd882f;
+     background-color: #dc3545;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -743,7 +743,7 @@ $grey: #999;
 
 .footer {
      padding: 20px 0px;
-     background: #fa7528;
+     background: #c92131;
 }
 
 .footer p {
